@@ -34,7 +34,4 @@ function onButtonClickedFunction() {
       successAlert.style.visibility='visible';
       onChangeFunction();
     }
-
-
-    // values+=`<li`
 }
